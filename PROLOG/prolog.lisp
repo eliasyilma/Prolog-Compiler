@@ -1,0 +1,5 @@
+(load "auxiliary.lisp")
+(load "prologdb.lisp")
+(load "unification.lisp")
+(load "index.lisp")
+(load "compiler.lisp")
